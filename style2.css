@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #FAF9F6;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.navbar {
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+}
+
+.filler {
+    text-align: center;
+    position: static;
+    width: 100%;
+    background-color: white;
+    opacity: 0;
+}
+
+.name {
+    font-size: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+
+
